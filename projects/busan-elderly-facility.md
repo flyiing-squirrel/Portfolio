@@ -2,7 +2,7 @@
 
 > 인구 수요와 시설 공급, 교통·의료 접근성, 부동산 비용을 결합해 노인복지시설의 입지 후보를 비교했습니다.
 
-[포트폴리오로 돌아가기](../README.md) · [프로젝트 자료](https://drive.google.com/drive/folders/1VuEgt9XsWK-iVfhT4ZCK_vVs2W8oQwbP)
+[포트폴리오로 돌아가기](../README.md) · [입지 점수 데이터](busan-elderly-facility/final-score.csv)
 
 | 항목 | 내용 |
 | --- | --- |
@@ -94,8 +94,7 @@ flowchart LR
 
 ## 자료
 
-- [원본 프로젝트 폴더](https://drive.google.com/drive/folders/1VuEgt9XsWK-iVfhT4ZCK_vVs2W8oQwbP)
-- 분석 노트북: 원본 프로젝트 폴더의 Term Project 노트북
-- 점수 결과: `final_score.csv`
+- [입지 점수 결과 CSV](busan-elderly-facility/final-score.csv)
+- [구·군별 시설 수 그래프](busan-elderly-facility/facilities-per-1000.png)
 
-프로젝트 시기는 원본 수업 폴더명과 2025년 6월 작업 기록을 기준으로 정리했습니다. 그래프는 분석 노트북에 저장된 원본 출력입니다. 원본 자료는 Drive 접근 권한에 따라 열람이 제한될 수 있습니다.
+프로젝트 시기는 원본 수업 폴더명과 2025년 6월 작업 기록을 기준으로 정리했습니다. 그래프는 분석 노트북에 저장된 원본 출력입니다. CSV는 최종 점수 파일을 보존한 것으로, 주소와 좌표는 대표 위치를 나타냅니다.

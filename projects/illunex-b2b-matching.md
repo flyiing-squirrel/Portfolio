@@ -2,7 +2,7 @@
 
 > 기업 메타데이터를 지식 그래프로 구조화하고, 벡터 검색과 RAG 요약으로 잠재적 공급·수요 기업을 탐색했습니다.
 
-[포트폴리오로 돌아가기](../README.md) · [프로젝트 Notion](https://app.notion.com/p/204b1df3c4cf801685a9e0796085fb3a)
+[포트폴리오로 돌아가기](../README.md) · [팀 최종 발표자료](illunex-b2b-matching/team-final-presentation.pptx)
 
 | 항목 | 내용 |
 | --- | --- |
@@ -76,8 +76,6 @@ flowchart LR
 
 ## 자료
 
-- [프로젝트 작업 공간](https://app.notion.com/p/204b1df3c4cf801685a9e0796085fb3a)
-- 1팀 최종 발표자료: `[1팀] 일루넥스 최종 제출 자료.pptx`
-- 제출 노트북: `1. 1팀_KG구축.ipynb`, `2. 1팀_KG_HGT+GraphSAGE_임베딩.ipynb`, `3. 1팀_Qdrant_Ollama.ipynb`, `IBA1팀_Qdrant_기반_기업_매칭_시스템_인터페이스_실행_코드.ipynb`
+- [1팀 최종 발표자료](illunex-b2b-matching/team-final-presentation.pptx) — 팀 전체 결과물, 약 67MB로 다운로드 후 확인
 
-기간과 개인 역할은 CV, 데이터 현황은 Notion, 최종 구축 규모는 발표자료를 기준으로 정리했습니다. 구현 흐름은 제출 노트북과 함께 확인했습니다. 원본 자료는 접근 권한에 따라 열람이 제한될 수 있습니다.
+기간과 개인 역할은 CV, 데이터 현황은 프로젝트 기록, 최종 구축 규모는 발표자료를 기준으로 정리했습니다. 구현 흐름은 제출 노트북과 함께 확인했습니다.

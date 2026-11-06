@@ -104,7 +104,7 @@ flowchart LR
 
 - [공개 저장소](https://github.com/snorlax914/smart-shield)
 - [검토한 모델링 노트북](https://github.com/snorlax914/smart-shield/blob/28b696942e982f5a53834e34e7eac837a09119c8/SmartShield_%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
-- 최종 영문 보고서: `SmartShield_Risk_Competition_Report(최종).docx`
-- 대조 자료: `SmartShield_한글본.docx`, `SmartShield_Executive_Summary_KR(수정_3차).pptx`·`.pdf`
+- [최종 영문 보고서](smart-shield/final-report.docx)
+- [팀 발표자료 PDF](smart-shield/team-presentation.pdf)
 
 기간·개인 역할·수상은 CV, 방법과 수치는 보고서·발표자료·코드를 대조해 정리했습니다. 공개 저장소는 2026-05-28 커밋을 기준으로 확인했습니다.

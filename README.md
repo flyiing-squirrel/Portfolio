@@ -39,7 +39,7 @@
 
 `데이터 파이프라인` `시계열 특징 공학` `LightGBM` `리스크 모델링` `지수형 보험`
 
-[프로젝트 상세](projects/smart-shield.md) · [GitHub](https://github.com/snorlax914/smart-shield)
+[프로젝트 상세](projects/smart-shield.md) · [팀 발표자료](projects/smart-shield/team-presentation.pdf) · [GitHub](https://github.com/snorlax914/smart-shield)
 
 ### 03 · 지식 그래프 기반 B2B 기업 매칭
 
@@ -49,7 +49,7 @@
 
 `데이터 전처리` `Neo4j` `지식 그래프` `TF-IDF` `HGT` `GraphSAGE` `Qdrant` `RAG`
 
-[프로젝트 상세](projects/illunex-b2b-matching.md) · [프로젝트 기록](https://app.notion.com/p/204b1df3c4cf801685a9e0796085fb3a)
+[프로젝트 상세](projects/illunex-b2b-matching.md) · [팀 최종 발표자료](projects/illunex-b2b-matching/team-final-presentation.pptx)
 
 ### 04 · 17만 건 RMR 레시피 데이터베이스 구축
 
@@ -59,7 +59,7 @@
 
 `데이터 정제` `단위 표준화` `NLP 문장 임베딩` `MySQL` `AWS RDS`
 
-[프로젝트 상세](projects/rmr-recipe-db.md) · [프로젝트 기록](https://app.notion.com/p/1f47781300e980e4a6cfe74935c80130)
+[프로젝트 상세](projects/rmr-recipe-db.md) · [전처리 정리](projects/rmr-recipe-db/preprocessing-notes.md)
 
 ### 05 · 부산 노인복지시설 입지 분석
 
@@ -69,17 +69,17 @@
 
 `Python` `pandas` `GeoPandas` `H3` `Haversine 거리` `Folium` `공간 데이터 분석`
 
-[프로젝트 상세](projects/busan-elderly-facility.md) · [프로젝트 자료](https://drive.google.com/drive/folders/1VuEgt9XsWK-iVfhT4ZCK_vVs2W8oQwbP)
+[프로젝트 상세](projects/busan-elderly-facility.md) · [입지 점수 데이터](projects/busan-elderly-facility/final-score.csv)
 
 ### 06 · 금융소외계층을 위한 맞춤형 보험 추천
 
 **2025.02 · 부산대학교 핀테크 아이디어 경진대회 · 팀장 · 우수상**
 
-팀장으로서 국민건강영양조사 기반 모델 개발 전반을 맡았습니다. 28개 입력변수로 9개 질병의 유병 여부를 분류하고, 클래스 불균형 처리와 네 가지 모델의 비교·튜닝을 진행했습니다. 양성 누락을 고려해 F2 점수를 중점적으로 평가하고 Logistic Regression을 최종 선택했습니다. 고혈압 분류의 제출 성능은 AUC 0.8906, F2 0.7626입니다. 팀은 분류 결과를 보험 탐색 웹 프로토타입에 연결했으며, 조회된 상품 중 두 개를 무작위로 표시합니다.
+팀장으로서 국민건강영양조사 기반 모델 개발 전반을 맡았습니다. 9개 질병의 유병 여부를 분류하고, 클래스 불균형 처리와 네 가지 모델의 비교·튜닝을 진행했습니다. 양성 누락을 고려해 F2 점수를 중점적으로 평가하고 Logistic Regression을 최종 선택했습니다. 고혈압 분류의 제출 성능은 AUC 0.8906, F2 0.7626입니다. 팀은 분류 결과를 보험 탐색 웹 프로토타입에 연결했으며, 조회된 상품 중 두 개를 무작위로 표시합니다.
 
 `머신러닝` `클래스 불균형` `MICE` `SMOTE` `Logistic Regression` `XGBoost` `LightGBM` `TabNet`
 
-[프로젝트 상세](projects/fintech-insurance-recommendation.md) · [프로젝트 자료](https://drive.google.com/drive/folders/1DNSetE2eR2k67ZAsrBW7gAUacsCVPo3H)
+[프로젝트 상세](projects/fintech-insurance-recommendation.md) · [최종 발표자료](projects/fintech-insurance-recommendation/team-presentation.pdf)
 
 ---
 
