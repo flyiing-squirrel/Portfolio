@@ -1,12 +1,6 @@
 # 신동욱 | Donguk Shin
 
-### Data Analytics · Data Engineering · Industrial AI
-
-**다양한 데이터를 정리하고 분석해 의사결정과 현장에서 활용할 수 있는 결과물로 연결합니다.**
-
-부산대학교에서 경영학과 핀테크를 공부하고 산업공학을 부전공하고 있습니다. 데이터 전처리부터 통계·머신러닝 모델링, 그래프 및 공간 분석까지 수행하고, 분석 결과를 데이터베이스와 업무 도구, 서비스 프로토타입으로 연결한 경험이 있습니다.
-
-[이메일](mailto:sdg1225@pusan.ac.kr) · [프로젝트 한눈에 보기](#selected-projects) · [역량과 경험](#skills--background)
+[이메일](mailto:sdg1225@pusan.ac.kr) · [프로젝트 한눈에 보기](#selected-projects)
 
 ---
 
