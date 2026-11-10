@@ -23,13 +23,13 @@
 
 ### 01 · AI 자세 추정 기반 표준작업지도서
 
-**2026.05–2026.07 · 고모텍 청년 일경험 프로젝트 · 팀장**
+**2026.05–2026.07 · 고모텍 청년 일경험 프로젝트 · 팀 팔레트 팀장**
 
 현장 공정 영상을 수집하고 YOLO 자세 추정 모델로 관절 키포인트와 작업자 동작을 분석했습니다. 분석 내용을 표준 작업 절차 정의에 활용하고, 영상과 다국어 안내를 제공하는 웹 작업지도서로 연결했습니다. 팀장으로 기업 담당자와의 미팅과 팀 활동을 조율했습니다.
 
 `YOLO Pose` `동작 분석`  `웹 작업지도서`
 
-[프로젝트 상세](projects/gomotec.md) · [GitHub](https://github.com/nneans/gomotec) · [작업지도서 보기](https://gomotec.vercel.app/)
+[프로젝트 상세](projects/gomotec.md) · [팀 최종 결과보고서](projects/gomotec/team-palette-final-report.pdf) · [GitHub](https://github.com/nneans/gomotec) · [작업지도서 보기](https://gomotec.vercel.app/)
 
 ### 02 · SmartShield — 스마트팜 지수형 보험·사전경보
 
