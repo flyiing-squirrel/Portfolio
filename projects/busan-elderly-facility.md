@@ -87,6 +87,7 @@ flowchart LR
 
 ## 자료
 
+- [발표 포스터 PDF](busan-elderly-facility/project-poster.pdf)
 - [입지 점수 결과 CSV](busan-elderly-facility/final-score.csv)
 - [구·군별 시설 수 그래프](busan-elderly-facility/facilities-per-1000.png)
 

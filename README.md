@@ -87,7 +87,7 @@
 
 `GeoPandas` `H3` `Haversine 거리` `Folium` `공간 데이터 분석`
 
-[프로젝트 상세](projects/busan-elderly-facility.md) · [입지 점수 데이터](projects/busan-elderly-facility/final-score.csv)
+[프로젝트 상세](projects/busan-elderly-facility.md) · [발표 포스터](projects/busan-elderly-facility/project-poster.pdf) · [입지 점수 데이터](projects/busan-elderly-facility/final-score.csv)
 
 ### 06 · 금융소외계층을 위한 맞춤형 보험 추천
 
