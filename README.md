@@ -21,7 +21,7 @@
 
 현장 공정 영상을 수집하고 YOLO 자세 추정 모델로 관절 키포인트와 작업자 동작을 분석했습니다. 분석 내용을 표준 작업 절차 정의에 활용하고, 영상과 다국어 안내를 제공하는 웹 작업지도서로 연결했습니다. 팀장으로 기업 담당자와의 미팅과 팀 활동을 조율했습니다.
 
-`YOLO Pose` `동작 분석` `공정 표준화` `웹 작업지도서`
+`YOLO Pose` `동작 분석`  `웹 작업지도서`
 
 [프로젝트 상세](projects/gomotec.md) · [GitHub](https://github.com/nneans/gomotec) · [작업지도서 보기](https://gomotec.vercel.app/)
 
@@ -31,7 +31,7 @@
 
 스마트팜 환경 데이터 1,247만 행을 처리하는 파이프라인을 구축하고, 환경 스트레스 지수와 보험료 산정, LightGBM 사전경보 모델 개발을 맡았습니다. 시차·현재 관측값·시간 정보를 활용해 52개 특징을 구성하고, 2020–2022년 학습·2023년 검증 구간으로 작물별 모델을 비교했습니다. 최종 보고서의 파프리카 경보 F1은 74%이며, 이 검증 구간은 조기 종료에도 사용됐습니다. 팀은 관측 지수로 보험료·보상 기준을 계산하는 엔진과 AI 사전경보 엔진을 분리한 지수형 보험 설계를 제안했습니다.
 
-`데이터 파이프라인` `시계열 특징 공학` `LightGBM` `리스크 모델링` `지수형 보험`
+`시계열 처리` `리스크 모델링` `지수형 보험`
 
 [프로젝트 상세](projects/smart-shield.md) · [팀 발표자료](projects/smart-shield/team-presentation.pdf) · [GitHub](https://github.com/snorlax914/smart-shield)
 
@@ -41,7 +41,7 @@
 
 실제 거래 이력이 없는 기업 데이터에서 잠재적 공급–수요 관계를 탐색하는 프로젝트입니다. 기업 메타데이터를 통합하고 텍스트 정규화와 파생변수 생성을 수행했습니다. 기업·제품·특허 등 9개 노드 유형의 지식 그래프를 설계하고, TF-IDF 기반 기업 유사성 엣지로 GNN 임베딩을 보강했습니다. 팀은 이를 Qdrant 검색과 RAG 요약을 제공하는 기업 매칭 시스템으로 연결했습니다.
 
-`데이터 전처리` `Neo4j` `지식 그래프` `TF-IDF` `HGT` `GraphSAGE` `Qdrant` `RAG`
+`Neo4j` `지식 그래프` `TF-IDF` `HGT` `GraphSAGE` `Qdrant` `RAG`
 
 [프로젝트 상세](projects/illunex-b2b-matching.md) · [팀 최종 발표자료](projects/illunex-b2b-matching/team-final-presentation.pptx)
 
@@ -51,7 +51,7 @@
 
 17만 건의 비정형 레시피를 대상으로 식재료와 양념을 분리하고 계량 단위를 g으로 표준화했습니다. 불규칙한 재료 표현을 문장 임베딩과 코사인 유사도 임계값을 활용해 국가 식품 표준 명칭에 매핑했습니다. 팀은 정제 데이터를 AWS RDS(MySQL)에 배포해 대체 레시피 연구를 위한 데이터 기반을 구축했습니다.
 
-`데이터 정제` `단위 표준화` `NLP 문장 임베딩` `MySQL` `AWS RDS`
+`데이터 정제` `NLP 문장 임베딩` `MySQL` `AWS RDS`
 
 [프로젝트 상세](projects/rmr-recipe-db.md) · [전처리 정리](projects/rmr-recipe-db/preprocessing-notes.md)
 
@@ -61,7 +61,7 @@
 
 부산의 인구·복지시설·교통·의료·부동산 데이터를 통합하고, 주소를 좌표로 변환해 입지 분석에 활용했습니다. 읍면동 대표좌표를 H3 격자로 집계한 203개 후보에 수요·공급·직선거리 기반 접근성·경제성 점수를 부여했습니다. 이용형과 주거형 시설의 목적에 따라 가중치를 다르게 설정하고, 점수와 후보 위치를 Folium 지도로 시각화했습니다.
 
-`Python` `pandas` `GeoPandas` `H3` `Haversine 거리` `Folium` `공간 데이터 분석`
+`GeoPandas` `H3` `Haversine 거리` `Folium` `공간 데이터 분석`
 
 [프로젝트 상세](projects/busan-elderly-facility.md) · [입지 점수 데이터](projects/busan-elderly-facility/final-score.csv)
 
@@ -71,6 +71,6 @@
 
 팀장으로서 국민건강영양조사 기반 모델 개발 전반을 맡았습니다. 9개 질병의 유병 여부를 분류하고, 클래스 불균형 처리와 네 가지 모델의 비교·튜닝을 진행했습니다. 양성 누락을 고려해 F2 점수를 중점적으로 평가하고 Logistic Regression을 최종 선택했습니다. 고혈압 분류의 제출 성능은 AUC 0.8906, F2 0.7626입니다. 팀은 분류 결과를 보험 탐색 웹 프로토타입에 연결했으며, 조회된 상품 중 두 개를 무작위로 표시합니다.
 
-`머신러닝` `클래스 불균형` `MICE` `SMOTE` `Logistic Regression` `XGBoost` `LightGBM` `TabNet`
+`머신러닝` `보험 추천` `불균형 데이터`
 
 [프로젝트 상세](projects/fintech-insurance-recommendation.md) · [최종 발표자료](projects/fintech-insurance-recommendation/team-presentation.pdf)
